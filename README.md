@@ -1,5 +1,5 @@
 #Kickstart a google app
-This a template to be used to start a google chrome web application project.
+This is a template to be used in starting a new google chrome web application.
 
 ## Why?
 To save you time and avoid user error, and to get it done in less then a minute :ok_hand:
