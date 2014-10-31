@@ -8,4 +8,4 @@ To save you time and avoid user error, and to get it done in less then a minute 
 * Make your changes in `app/`
 * Customize the app in `app/manifest.json`
 * Add a custom logo in `app/logo.png`
-* Read the blog post for instructions [Blog CWI](http://codewithintent.com/how-to-create-a-google-chrome-app)
+* Read the blog post for instructions [Blog CWI](http://codewithintent.com/how-to-create-a-chrome-app-in-under-1-minute/)
